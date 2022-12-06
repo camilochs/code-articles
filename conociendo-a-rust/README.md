@@ -1,7 +1,7 @@
 Para ejecutar los ejemplos de C:
 
 ````
-> cd ejemplos_c
+> cd src/ejemplos_c
 > gcc ejemplo1.c -o ejemplo1 && ./ejemplo1
 > gcc ejemplo2.c -o ejemplo2 && ./ejemplo2
 
