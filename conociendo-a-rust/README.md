@@ -9,6 +9,7 @@ Para ejecutar los ejemplos de C:
 
 En el caso de Rust:
 ````
+> cd src/
 > cargo run --bin ejemplo1
 > cargo run --bin ejemplo2
 > cargo run --bin ejemplo3
